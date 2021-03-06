@@ -1,9 +1,9 @@
 
 
-![ Repo size](https://img.shields.io/github/repo-size/DONOFTELEGRAM/Angelina)
-[![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/Angelina.git)
-### Contact me through [Telegram](https://t.me/LEGEND_OF_UNIVERSE)
-## Avaiilable on Telegram as [Angelina 🌟](https://t.me/VillainProBot)
+![ Repo size](https://img.shields.io/github/repo-size/Aparichithan/Angelina)
+[![Deploy](https://https://telegra.ph/file/3d3aa84ff3ba5b931336f.jpg)](https://heroku.com/deploy?template=https://github.com/Aparichithan/Angelina.git)
+### Contact me through [Telegram](https://t.me/TG_STRANGE_R)
+## Avaiilable on Telegram as [ΞＬＳΛ🌟](https://t.me/MissElsa_bot)
 ### bot source 
 [BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)/
 [BASE SOURCE 2](https://github.com/Godzilla-0/Suzuya_ProBot)
@@ -17,7 +17,7 @@ Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/Sai
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
  
- [Deploy](https://www.heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-AIRA.git)
+ [Deploy](https://www.heroku.com/deploy?template=https://github.com/Aparichithan/Aira)
 
 ```
 Fill in all the details, Deploy!
